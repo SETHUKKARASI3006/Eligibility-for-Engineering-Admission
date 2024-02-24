@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Archana\\csharpExperiments\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj": {}
+    "C:\\Users\\usera\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Archana\\csharpExperiments\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj": {
+    "C:\\Users\\usera\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Archana\\csharpExperiments\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
+        "projectUniqueName": "C:\\Users\\usera\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
         "projectName": "Eligibility-for-Engineering-Admission",
-        "projectPath": "C:\\Users\\Archana\\csharpExperiments\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
-        "packagesPath": "C:\\Users\\Archana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Archana\\csharpExperiments\\Eligibility-for-Engineering-Admission\\obj\\",
+        "projectPath": "C:\\Users\\usera\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
+        "packagesPath": "C:\\Users\\usera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usera\\Eligibility-for-Engineering-Admission\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Archana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\usera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
